@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tuounitor.github.io/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/app/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/assets/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/css/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/data/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/includes/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/item/sitemap.html.gz
+Sitemap: https://tuounitor.github.io/src/sitemap.html.gz
